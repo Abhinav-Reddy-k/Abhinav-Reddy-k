@@ -7,7 +7,7 @@
   
 - 🤝 I’m looking for help with [nova-admin](https://github.com/Abhinav-Reddy-k/nova-admin)  
   
-- 👨‍💻 All of my projects are available at [abhinavreddy.web.app](abhinavreddy.web.app)  
+- 👨‍💻 All of my projects are available at [abhinavreddy.web.app](https://abhinavreddy.web.app/#/home)  
   
 - 💬 Ask me about **MERN stack, Devops**  
   
