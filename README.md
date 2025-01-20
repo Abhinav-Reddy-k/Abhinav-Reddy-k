@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm ABHINAV REDDY KANALA</h1>  
-<h3 align="center">A passionate web & mobile app developer & Cybersecurity expert</h3>  
+<h3 align="center">A passionate web & mobile app developer</h3>  
   
-- 🔭 I’m currently working on [nova](https://github.com/Abhinav-Reddy-k/nova)  
   
-- 🌱 I’m currently learning **Cybersecurity**  
-  
-- 🤝 I’m looking for help with [nova-admin](https://github.com/Abhinav-Reddy-k/nova-admin)  
+- 🌱 I’m currently learning **AI/ML**  
   
 - 👨‍💻 All of my projects are available at [abhinavreddy.web.app](https://abhinavreddy.web.app/#/home)  
   
-- 💬 Ask me about **MERN stack, Devops, Cybersecurity**  
+- 💬 Ask me about **Fullstack Web Development, DevOps**  
   
 - 📫 How to reach me **abhinavreddykanala@gmail.com**  
 
