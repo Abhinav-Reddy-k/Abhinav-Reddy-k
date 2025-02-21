@@ -6,6 +6,20 @@
 
 - 💬 Ask me about **Fullstack Web Development, DevOps**  
 
+### 📚 **Recent Projects**
+
+- **Workday Copilot | AI Job Application Automation (Chrome Extension)**  
+  _Demo_: [Web Store](#)  
+  - A Chrome extension that automates Workday job applications, reducing application time from 15 minutes to just 2 minutes.
+
+- **Nova | Learning Management System**  
+  _Demo_: [Student Portal](#)  
+  - A platform designed to streamline course delivery and student tracking, significantly improving course creation and engagement.
+
+- **Kanteen | Food Ordering Platform**  
+  _Demo_: [Kanteen App](#)  
+  - A food ordering app connecting students with local food vendors, optimizing order processing and fulfillment.
+
 ___
 
 <h3 align="left">Languages and Tools:</h3>  
