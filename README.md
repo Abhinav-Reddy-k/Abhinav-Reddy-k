@@ -9,15 +9,15 @@
 ### 📚 **Recent Projects**
 
 - **Workday Copilot | AI Job Application Automation (Chrome Extension)**  
-  _Demo_: [Web Store](#)  
+  _Demo_: [Web Store](https://www.linkedin.com/posts/abhinav-reddy-k_sideproject-ai-automation-activity-7294804708089548800-e7jn?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtZGhABny-7ymicKbRmgo1sc2JeArwaW9Q)  
   - A Chrome extension that automates Workday job applications, reducing application time from 15 minutes to just 2 minutes.
 
 - **Nova | Learning Management System**  
-  _Demo_: [Student Portal](#)  
+  _Demo_: [Student Portal](https://novaonline.web.app/)   [Admin Portal](https://nova-admin.web.app/home)  
   - A platform designed to streamline course delivery and student tracking, significantly improving course creation and engagement.
 
 - **Kanteen | Food Ordering Platform**  
-  _Demo_: [Kanteen App](#)  
+  _Demo_: [Kanteen App](https://kanteen-dev.web.app/)  
   - A food ordering app connecting students with local food vendors, optimizing order processing and fulfillment.
 
 ___
