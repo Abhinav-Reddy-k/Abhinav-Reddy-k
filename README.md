@@ -3,12 +3,8 @@
   
   
 - 🌱 I’m currently learning **AI/ML**  
-  
-- 👨‍💻 All of my projects are available at [abhinavreddy.web.app](https://abhinavreddy.web.app/#/home)  
-  
+
 - 💬 Ask me about **Fullstack Web Development, DevOps**  
-  
-- 📫 How to reach me **abhinavreddykanala@gmail.com**  
 
 ___
 
