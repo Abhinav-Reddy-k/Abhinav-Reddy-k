@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ABHINAV REDDY KANALA</h1>  
+<h1 align="center">Hi 👋, I'm ABHINAV</h1>  
 <h3 align="center">A passionate web & mobile app developer</h3>  
   
   
