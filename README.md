@@ -9,7 +9,7 @@
 ### 📚 **Recent Projects**
 
 - **Workday Copilot | AI Job Application Automation (Chrome Extension)**  
-  _Demo_: [Web Store](https://www.linkedin.com/posts/abhinav-reddy-k_sideproject-ai-automation-activity-7294804708089548800-e7jn?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtZGhABny-7ymicKbRmgo1sc2JeArwaW9Q)  
+  _Demo_: [Code](https://github.com/Abhinav-Reddy-k/workday-copilot)  
   - A Chrome extension that automates Workday job applications, reducing application time from 15 minutes to just 2 minutes.
 
 - **Nova | Learning Management System**  
