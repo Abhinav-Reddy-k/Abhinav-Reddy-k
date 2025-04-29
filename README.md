@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web & mobile app developer</h3>  
   
   
-- 🌱 I’m currently learning **AI/ML**  
+- 🌱 I’m currently exploring **AI/ML**  
 
 - 💬 Ask me about **Fullstack Web Development, DevOps**  
 
