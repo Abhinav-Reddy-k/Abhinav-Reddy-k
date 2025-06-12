@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack web & mobile app developer</h3>  
   
   
-- 🌱 I’m currently working **AI/ML**  
+- 🌱 I’m currently working on **AI/ML**  
 
 - 💬 Ask me about **Fullstack Web Development, DevOps**  
 
