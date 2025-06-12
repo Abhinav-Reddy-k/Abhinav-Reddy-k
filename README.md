@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm ABHINAV</h1>  
-<h3 align="center">A passionate web & mobile app developer</h3>  
+<h3 align="center">Full-Stack web & mobile app developer</h3>  
   
   
-- 🌱 I’m currently exploring **AI/ML**  
+- 🌱 I’m currently working **AI/ML**  
 
 - 💬 Ask me about **Fullstack Web Development, DevOps**  
 
