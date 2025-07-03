@@ -1,18 +1,10 @@
 <h1 align="center">Hi 👋, I'm ABHINAV</h1>  
 
-### 📚 **Recent Projects**
+### 📚 **Most Recent Project**
 
 - **Workday Copilot | AI Job Application Automation (Chrome Extension)**  
   _Demo_: [Code](https://github.com/Abhinav-Reddy-k/workday-copilot)  
   - A Chrome extension that automates Workday job applications, reducing application time from 15 minutes to just 2 minutes.
-
-- **Nova | Learning Management System**  
-  _Demo_: [Student Portal](https://novaonline.web.app/)   [Admin Portal](https://nova-admin.web.app/home)  
-  - A platform designed to streamline course delivery and student tracking, significantly improving course creation and engagement.
-
-- **Kanteen | Food Ordering Platform**  
-  _Demo_: [Kanteen App](https://kanteen-dev.web.app/)  
-  - A food ordering app connecting students with local food vendors, optimizing order processing and fulfillment.
 
 ___
 
